@@ -5,6 +5,8 @@
 simple snake game to learn [oscar64](https://github.com/drmortalwombat/oscar64)
 with.
 
+currently missing self-collision. slither through your own body with impunity.
+
 ## build
 
 ```
